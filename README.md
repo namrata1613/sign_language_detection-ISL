@@ -1,2 +1,2 @@
-# sign_language_detection-ISL
-Real-time Indian Sign Language detection 
+# Indian Sign Language Detection 
+Real-time Indian Sign Language detection for Banking Institutions using LSTM 
